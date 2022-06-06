@@ -17,7 +17,7 @@ hex = "0.3.2"
 sha2 = "0.8.0"
 rand = "0.6.5"
 phf = { git = "https://github.com/sfackler/rust-phf", rev = "0d00821", features = ["macros"] }
-smallvec = "0.6.9"
+smallvec = "0.6.13"
 reqwest = "0.9.15"
 num-derive = "0.2.5"
 num-traits = "0.2.6"
